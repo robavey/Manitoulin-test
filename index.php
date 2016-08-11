@@ -38,7 +38,7 @@ foreach ($people as $person) {
    foreach ($person as $field) {
       echo '<td>'.$field.'</td>';
    }
-   echo '<td><a href="#initmodal" class="btn btn-success" data-toggle="modal" role="button">info</a></tr>';
+   echo '<td><a href="#initmodal" class="btn btn-success" data-toggle="modal" role="button">info</a></td></tr>';
    
 }
 ?>
